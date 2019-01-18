@@ -17,6 +17,15 @@
   "engines": {
     "node": "8.10.0"
   },
-  "author": "Kuei",
+  "author": {
+    "name": "Kuei",
+    "email": "kuei@outlook.com",
+    "url": "http://kueiapp.com/"
+  },
+  "homepage": "http://kueiapp.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kueiapp/kuei-wiot-nodejs.git"
+  },
   "license": "GPLv3"
 }

@@ -1,6 +1,5 @@
 require('webduino-js');
 require('webduino-blockly');
-var linebot = require('linebot');
 var express = require('express');
 
 var app = express();
@@ -20,9 +19,5 @@ app.listen(server_port, server_ip_address, function () {
 app.get('/', function(request, response) {
   response.send('Hello World WIoT!');
 });
-
-/** doPost **/
-app.post('/commands', linebotParser);
-
 
 
