@@ -22,7 +22,7 @@
     "email": "kuei@outlook.com",
     "url": "http://kueiapp.com/"
   },
-  "homepage": "http://kueiapp.com/",
+  "homepage": "http://kuei-wiot-nodejs-wiot.7e14.starter-us-west-2.openshiftapps.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/kueiapp/kuei-wiot-nodejs.git"
