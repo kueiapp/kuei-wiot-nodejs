@@ -1,0 +1,22 @@
+{
+  "name": "MyWIoT",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "4.16.0",
+    "linebot": "1.4.1",
+    "request": "^2.85.0",
+    "webduino-blockly": "0.0.11",
+    "webduino-js": "0.4.19"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "author": "Kuei",
+  "license": "GPLv3",
+}
